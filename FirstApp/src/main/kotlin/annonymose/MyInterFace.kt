@@ -1,4 +1,0 @@
-package Annonymose
-
-interface MyInterFace {
-}

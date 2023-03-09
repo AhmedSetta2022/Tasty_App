@@ -1,4 +1,0 @@
-package anyclass
-
-class Second {
-}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محول العملات</string>
+    <string name="From">من</string>
+    <string name="To">إلى</string>
+    <string name="Amount">الكمية</string>
+    <string name="Result">النتيجة</string>
+    <string name="Require">مطلوب</string>
+    <string name="CurrencyConverter">محول العملات</string>
+    <string name="SelectCountry">اختر عملة</string>
+    <string name="EnterAmount">من فضلك أدخل الكمية</string>
+    <string name="Convert">حول</string>
+    <string name="ConvertedAmount">الكمية المحولة</string>
+</resources>

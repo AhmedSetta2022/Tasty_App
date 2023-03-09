@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">MyCurrencyConverter</string>
+    <string name="From" translatable="false">From</string>
+    <string name="To" translatable="false">To</string>
+    <string name="Amount" translatable="false">Amount</string>
+    <string name="Result" translatable="false">Result</string>
+    <string name="Require" translatable="false">Require</string>
+    <string name="CurrencyConverter" translatable="false">CurrencyConverter</string>
+    <string name="SelectCountry" translatable="false">Select Country</string>
+    <string name="EnterAmount" translatable="false">Enter Amount</string>
+    <string name="Convert" translatable="false">Convert</string>
+    <string name="ConvertedAmount" translatable="false">Converted Amount</string>
+
+
+
+</resources>

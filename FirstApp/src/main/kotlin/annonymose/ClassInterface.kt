@@ -1,4 +1,0 @@
-package Annonymose
-
-class ClassInterface {
-}
