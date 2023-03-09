@@ -1,0 +1,4 @@
+package SecondLearnAdvancedKotlin
+
+class Try {
+}

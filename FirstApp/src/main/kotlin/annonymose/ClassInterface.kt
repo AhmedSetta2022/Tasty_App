@@ -1,0 +1,4 @@
+package Annonymose
+
+class ClassInterface {
+}

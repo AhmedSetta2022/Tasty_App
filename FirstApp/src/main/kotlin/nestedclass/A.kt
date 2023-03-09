@@ -1,0 +1,4 @@
+package nestedclass
+
+class A {
+}

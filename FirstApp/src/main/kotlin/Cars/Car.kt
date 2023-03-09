@@ -1,0 +1,4 @@
+package Cars
+
+class Car {
+}

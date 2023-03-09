@@ -1,0 +1,4 @@
+package anyclass
+
+class Demo {
+}
